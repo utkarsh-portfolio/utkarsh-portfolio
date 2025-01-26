@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @utkarsh-portfolio
 - 👀 I’m interested in data engineering, machine learning, AI and Gen AI
 - 🌱 I’m currently pursuing masters's in business analytics
-- 💞️ I’m looking to collaborate on projects related to ml, ai and gen ai
+- 💞️ I am open to collaboration on AI & Data Projects
 - 😄 Pronouns: he/him
